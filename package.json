@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/aadit0215/botwa"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Fajar Shamsyiar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/aadit0215/botwa/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/aadit0215/botwa#readme"
 }
